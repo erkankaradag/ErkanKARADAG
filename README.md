@@ -1,4 +1,4 @@
-## 👋 Hey, ben Erkan Karadağ! 
+## 👋 Merhaba, ben Erkan Karadağ! 
 
 ### 🚀 Full Stack Developer | SEO (Arama Motoru Optimizasyonu) Uzmanı | Art Director (Sanat Yönetmeni)  
 Merhaba! Ben **Erkan Karadağ**, yazılım ve tasarım dünyasında kendini sürekli geliştiren bir teknoloji ve sanat tutkunu. **Tam donanımlı bir Full Stack Developer** olmak için eğitim sürecime devam ediyorum. Aynı zamanda **SEO (Arama Motoru Optimizasyonu) uzmanıyım. Art Director (Adobe Photoshop, After Effects, Illustrator ve InDesign) programlarını kullanarak Grafik Tasarım** alanlarında da kendimi geliştiriyorum. 
