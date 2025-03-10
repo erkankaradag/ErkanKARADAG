@@ -28,7 +28,7 @@ Yazılım ve tasarım dünyasında kendini sürekli geliştiren bir teknoloji ve
 ### 📬 Bana Ulaşın  
 📌 **LinkedIn:** [linkedin.com/in/erkankaradag](https://www.linkedin.com/in/erkankaradag/)  
 📌 **Twitter (X):** [x.com/erkankaradagcom](https://x.com/erkankaradagcom)  
-📌 **Twitter (X):** [instagram.com/erkankaradagcom](https://instagram.com/erkankaradagcom) 
+📌 **İnstagram:** [instagram.com/erkankaradagcom](https://instagram.com/erkankaradagcom)  
 📌 **Facebook:** [facebook.com/erkankaradagcom](https://facebook.com/erkankaradagcom)  
 
 ---
