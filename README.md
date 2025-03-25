@@ -6,7 +6,7 @@ Yazılım ve tasarım dünyasında kendini sürekli geliştiren bir teknoloji ve
 ---
 
 ### 🛠️ Kullandığım Teknolojiler & Araçlar  
-💻 **Backend & Database:** C#, .NET Core, ASP.NET MVC, PostgreSQL  
+💻 **Backend & Database:** C#, .NET Core, ASP.NET MVC, API, Entity Framework ve PostgreSQL  
 🎨 **Tasarım & Video:** Photoshop, After Effects, Illustrator, InDesign  
 📈 **SEO, SEM, Sosyal Medya & Dijital Pazarlama:** Arama Motoru Optimizasyonu (SEO), Arama Motoru Pazarlaması (SEM), Sosyal Medya Reklam Yönetimi ile Dijital Pazarlama  
 
