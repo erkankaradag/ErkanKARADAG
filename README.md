@@ -114,19 +114,6 @@ Ben Erkan Karadağ, Bilgisayar Programcılığı mezunuyum. Full Stack Developer
 
 ---
 
-## 🌐 İletişim
-<p>
-🔗<a href="https://erkankaradag.com/">Portfolyo</a> |
-📧 erkankaradagcom@gmail.com  
-<a href="https://www.linkedin.com/in/erkankaradag/">LinkedIn</a> | 
-<a href="https://github.com/erkankaradag">GitHub</a> | 
-<a href="https://x.com/erkankaradagcom">Twitter (X)</a> |
-<a href="https://instagram.com/erkankaradagcom">Instagram</a> |
-<a href="https://facebook.com/erkankaradagcom">Facebook</a> |
-</p>
-
----
-
 <p align="center">
   <em>"Kod yazmak, tasarlamak ve keşfetmek benim için bir yaşam tarzı!"</em> 🚀
 </p>
